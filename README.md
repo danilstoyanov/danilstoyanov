@@ -14,10 +14,10 @@ Hi, I’m Daniel Stoianov 👋
 ===============	
 
 ### About Me 🚀
-🌱 Frontend developer since 2017 with a knack for adapting to evolving web tech
-💡 Experienced in both Frontend and Backend, constantly broading my technical horizon
-🤝 I enjoy collaboration and value teamwork
-🚀 Passionate about video generation projects, like experiment with graphics and design
+- 🌱 Frontend developer since 2017 with a knack for adapting to evolving web tech
+- 💡 Experienced in both Frontend and Backend, constantly broading my technical horizon
+- 🤝 I enjoy collaboration and value teamwork
+- 🚀 Passionate about video generation projects, like experiment with graphics and design
 
 ### My Experiences 🙌
 - [Bank of Montreal](https://www.freecharge.in/) - (May'22 - Present)
