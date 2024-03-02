@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/danilstoyanov/">
   <img align="right" alt="Daniel's LinkedIn" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoyanov/main/assets/icons_linkedin.svg" />
 </a>
-<a href="mailto: getrin96@gmail.com">
-  <img align="right" alt="Daniel's Email" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoiyanov/main/assets/icons_email.svg" />
+<a href="mailto:getrin96@gmail.com">
+  <img align="right" alt="Daniel's Email" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoyanov/2e07ef1255f67a1321b154484e8008c44f220509/assets/icons_email.svg" />
 </a>
 
 Hi, I’m Daniel Stoianov 👋
