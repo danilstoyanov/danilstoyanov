@@ -1,13 +1,13 @@
 [![Header](assets/header.gif "Header")](https://github.com/danilstoyanov)
 
 <a href="https://t.me/pierturing">
-  <img align="right" alt="Daniel's Telegram" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoyanov/main/assets/icons_telegram.png" />
+  <img align="right" alt="Daniel's Telegram" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoyanov/main/assets/icons_telegram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/danilstoyanov/">
-  <img align="right" alt="Daniel's LinkedIn" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoyanov/main/assets/icons_linkedin.png" />
+  <img align="right" alt="Daniel's LinkedIn" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoyanov/main/assets/icons_linkedin.svg" />
 </a>
 <a href="mailto: getrin96@gmail.com">
-  <img align="right" alt="Daniel's Email" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoiyanov/main/assets/icons_mail.png" />
+  <img align="right" alt="Daniel's Email" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoiyanov/main/assets/icons_email.svg" />
 </a>
 
 Hi, I’m Daniel Stoianov 👋
