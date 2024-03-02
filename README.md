@@ -1,14 +1,28 @@
 [![Header](assets/header.gif "Header")](https://github.com/danilstoyanov)
 
-<!--
-**danilstoyanov/danilstoyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/pierturing">
+  <img align="right" alt="Daniel's Telegram" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoyanov/main/assets/icons_telegram.png" />
+</a>
+<a href="https://www.linkedin.com/in/danilstoyanov/">
+  <img align="right" alt="Daniel's LinkedIn" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoyanov/main/assets/icons_linkedin.png" />
+</a>
+<a href="mailto: getrin96@gmail.com">
+  <img align="right" alt="Daniel's Email" width="32px" src="https://raw.githubusercontent.com/danilstoyanov/danilstoiyanov/main/assets/icons_mail.png" />
+</a>
 
-Here are some ideas to get you started:
+Hi, I’m Daniel Stoianov 👋
+===============	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+### About Me 🚀
+🌱 Frontend developer since 2017 with a knack for adapting to evolving web tech
+💡 Experienced in both Frontend and Backend, constantly broading my technical horizon
+🤝 I enjoy collaboration and value teamwork
+🚀 Passionate about video generation projects, like experiment with graphics and design
+
+### My Experiences 🙌
+- [Bank of Montreal](https://www.freecharge.in/) - (May'22 - Present)
+- [VK](https://vk.company/en/) - (May'20-Feb'22)
+- [Yandex](https://vk.company/en/) - (Feb'20-May'20)
+- [Nebo Team](https://nebo.team/) - (Jan'17-Nov'17)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilstoyanov&layout=donut&hide_border=true)
