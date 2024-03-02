@@ -20,9 +20,9 @@ Hi, I’m Daniel Stoianov 👋
 - 🚀 Passionate about video generation projects, like experiment with graphics and design
 
 ### My Experiences 🙌
-- [Bank of Montreal](https://www.freecharge.in/) - (May'22 - Present)
+- [Bank of Montreal](https://www.bmo.com/) - (May'22 - Present)
 - [VK](https://vk.company/en/) - (May'20-Feb'22)
-- [Yandex](https://vk.company/en/) - (Feb'20-May'20)
+- [Yandex](https://yandex.com/company/) - (Feb'20-May'20)
 - [Nebo Team](https://nebo.team/) - (Jan'17-Nov'17)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilstoyanov&layout=donut&hide_border=true)
