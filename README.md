@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](assets/header.gif "Header")](https://github.com/danilstoyanov)
 
 <!--
 **danilstoyanov/danilstoyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
